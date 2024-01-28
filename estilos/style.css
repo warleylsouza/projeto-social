@@ -39,8 +39,9 @@ section#telefone {
         position: relative;
         top: 80px;
         left: 22px;
-        width: 269px;
+        width: 267px;
         height: 471px;
+
 
     }
 
@@ -59,7 +60,7 @@ section#telefone {
     }
 
     section#redes-sociais img:hover {
-        
+
         border: 2px solid rgba(255, 255, 255, 0.603);
         transform: translate(-3px -3px);
         box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.603);
