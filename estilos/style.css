@@ -25,7 +25,7 @@ body {
 section#telefone {
     position: absolute; /*reposicionamento da tela*/
     top: 50%;
-    left: 50%;
+    left: 45%;
     transform: translate(-50%,-50%);/*centralização da imagem */
 
     height: 627px; /* altura maxima tela do telefone*/
